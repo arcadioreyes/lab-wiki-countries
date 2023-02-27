@@ -6,7 +6,6 @@ import CountryDetails from '../src/components/CountryDetails.jsx';
 function App() {
   return (
     <div className="App">
-      <h1> Welcome to WikiCountries</h1>
       <Navbar />
       <CountriesList />
       <CountryDetails />
